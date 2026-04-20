@@ -16,4 +16,4 @@ Some Images of this Project
 
 <kbd><img width="250" alt="image" src="https://github.com/user-attachments/assets/47939e1c-22b4-4160-a946-6db5a507c9b0" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="1290" alt="image" src="https://github.com/user-attachments/assets/c5f364a8-6871-4df1-98e3-e96f7730ea18" /></kbd>
+<kbd><img width="250" alt="image" src="https://github.com/user-attachments/assets/c5f364a8-6871-4df1-98e3-e96f7730ea18" /></kbd>
