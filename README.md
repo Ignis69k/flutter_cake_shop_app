@@ -2,7 +2,7 @@
 
 ## โปรเจ็ก สายด่วนกินเค้ก
 
-How to Setup Project for first tiem (วิธีตั้งค่าโปรเจ็กสำหรับครั้งแรก)
+How to Setup Project for first time (วิธีตั้งค่าโปรเจ็กสำหรับครั้งแรก)
 
 <code>flutter pub get</code>
 
